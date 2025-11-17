@@ -1,0 +1,3 @@
+48 hours in LD, starting at ZT12. 10-minute recording each hour. 60Hz. 
+In Excel, each column is one session. 
+405 and 465 channels are at different sheets.
